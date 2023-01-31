@@ -8,7 +8,7 @@ Los flag de un guión solo llevan una letra:
 
 ```
 ls -l
-``
+```
 Los flags de un guión pueden pasarse juntos:
 
 ```
