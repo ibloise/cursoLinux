@@ -1,2 +1,6 @@
-# cursoLinux
-Pequeño curso-guía de introducción a Ubuntu-Linux para rotantes en la unidad de NGS del HU La Paz
+# Curso guía de introducción a Ubuntu-Linux
+
+## Introducción
+El objetivo de este curso es servir de introducción para trabajar en entornos Linux aplicados al análisis de datos de secuenciación de nueva generación en microbiología clínica
+
+
