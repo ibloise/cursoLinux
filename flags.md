@@ -34,7 +34,7 @@ Para conocer los posibles argumentos que admite un programa de la terminal, habi
 
 El argumento de ayuda imprimirá en pantalla el uso del programa, sus posibles argumentos, y cualquier información que el desarrollador haya considerado importante.
 
-#Tipos de argumentos
+# Tipos de argumentos
 
 Algunos argumentos son **lógicos** es decir, indicarlo cambia en si mismo el comportamiento del programa (como ya hemos visto, el flag -l cambia la manera en que ls nos muestra los archivos) mientras que otros requieren recibir **parámetros** a su vez (por ejemplo, el nombre de un archivo).
 
