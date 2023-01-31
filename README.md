@@ -32,4 +32,4 @@ Para instalar Ubuntu en tu máquina virtual, puedes seguir el siguiente [tutoria
 Para el desarrollo de tu rotación en la Unidad, se te cederá una estación de trabajo con Ubuntu ya instalado. De todas formas, recomendamos la instalación de Ubuntu en tu máquina virtual para que aprendas a configurar el sistema operativo y a instalar todas las dependencias necesarias.
 
 Puedes continuar el curso aquí:
-- Primeros pasos en Linux
+- [Primeros pasos en Linux](https://github.com/ibloise/cursoLinux/blob/4bbdb2d60700c2526ecbb53e2052e4e01222ed56/primerosPasos.md)
