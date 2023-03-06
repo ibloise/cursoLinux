@@ -38,4 +38,5 @@ El argumento de ayuda imprimirá en pantalla el uso del programa, sus posibles a
 
 Algunos argumentos son **lógicos** es decir, indicarlo cambia en si mismo el comportamiento del programa (como ya hemos visto, el flag -l cambia la manera en que ls nos muestra los archivos) mientras que otros requieren recibir **parámetros** a su vez (por ejemplo, el nombre de un archivo).
 
+Continua en [Uso avanzado](https://github.com/ibloise/cursoLinux/blob/8903c23c8fdf9a9ec013f383aa817d140d9d148f/advancemanagement.md)
 
