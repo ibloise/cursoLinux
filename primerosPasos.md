@@ -114,4 +114,4 @@ rm -r directorio_a_borrar
 
 Pero ¿Que es esto de los flags? Avanza hacia la siguiente sesión para entenderlo:
 
-- [Uso de flags](https://github.com/ibloise/cursoLinux/blob/55fca9210970a3df5fd97ff3eaf0c8406f3bd91d/flags.md)
+- [Uso de flags](flags.md)
